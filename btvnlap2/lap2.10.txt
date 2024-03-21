@@ -1,0 +1,11 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.10.py"
+wellcome to khoihoccode!!!!!!!
+Nhập thể loại phim bạn muốn xem(Hành động, Kinh dị, Tình cảm, Hài hước, Hoạt hình):Hành động
+Nhập thời gian muốn xem phim (sáng, trưa, chiều, tối):sáng
+có suất chiếu vào thời gian này
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.10.py"
+wellcome to khoihoccode!!!!!!!
+Nhập thể loại phim bạn muốn xem(Hành động, Kinh dị, Tình cảm, Hài hước, Hoạt hình):Kinh dị
+Nhập thời gian muốn xem phim (sáng, trưa, chiều, tối):chiều
+Không có suất chiếu vào thời gian này 
+PS C:\Users\ADMIN> 
