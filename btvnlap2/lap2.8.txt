@@ -1,0 +1,25 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.8.py"
+nhap he so goc 1 :-0.5
+nhap he so tu do 1 :3
+nhap he so goc 2 :2
+nhap he so tu do 2 :5
+Hai duong thang vuông goc
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.8.py"
+nhap he so goc 1 :2
+nhap he so tu do 1 :1
+nhap he so goc 2 :2
+nhap he so tu do 2 :1
+Hai duong thang trung nhau
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.8.py"
+nhap he so goc 1 :2
+nhap he so tu do 1 :3
+nhap he so goc 2 :2
+nhap he so tu do 2 :4
+Hai duong thang song song
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.8.py"
+nhap he so goc 1 :2
+nhap he so tu do 1 :3
+nhap he so goc 2 :5
+nhap he so tu do 2 :9
+Hai duong thang cat nhau
+PS C:\Users\ADMIN>
