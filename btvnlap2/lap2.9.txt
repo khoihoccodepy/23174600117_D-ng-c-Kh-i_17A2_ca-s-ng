@@ -1,0 +1,8 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.9.py"
+Nhap ban kinh :3
+Nhap toa do tam duong tron :2 4
+nhap he so goc a :4
+nhap he so goc b :3
+nhap he so tu do c :5
+Duong thang nam ngoai duong tron
+PS C:\Users\ADMIN> 
