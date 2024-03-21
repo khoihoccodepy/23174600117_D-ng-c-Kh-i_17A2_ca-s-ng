@@ -1,0 +1,7 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.3.py"
+nhap so nguyen :99
+ninetynine
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.3.py"
+nhap so nguyen :12
+twelve
+PS C:\Users\ADMIN> 
