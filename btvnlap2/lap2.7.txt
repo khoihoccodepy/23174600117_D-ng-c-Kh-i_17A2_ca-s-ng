@@ -1,0 +1,9 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.7.py"
+Nhập chiều cao(m) :1.65
+Nhập cân nặng(kg) :65
+Chỉ số BMI của bạn là: 23.875114784205696 Bình thường
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.7.py"
+Nhập chiều cao(m) :1.52
+Nhập cân nặng(kg) :58
+Chỉ số BMI của bạn là: 25.10387811634349 Hơi béo
+PS C:\Users\ADMIN> 
