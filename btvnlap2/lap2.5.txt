@@ -1,0 +1,11 @@
+Nhập số lượng người :1
+Giá vé là : 120000 VND
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.5.py"
+Nhập số lượng người :3
+Giá vé là : 342000.0 VND
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.5.py"
+Nhập số lượng người :9
+Gia ve la : 972000.0 VND
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.5.py"
+Nhập số lượng người :14
+Giá vé là : 1344000.0 VND
