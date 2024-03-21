@@ -1,0 +1,11 @@
+nhap diem :1
+Điểm kém
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.4.py"
+nhap diem :6
+Điểm trung bình
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.4.py"
+nhap diem :7
+Điểm trung bình
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.4.py"
+nhap diem :10
+Điểm tốt
