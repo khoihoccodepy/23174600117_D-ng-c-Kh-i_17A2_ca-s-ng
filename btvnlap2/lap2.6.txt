@@ -1,0 +1,6 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap2/lap2.6.py"
+nhap x: 1
+nhap y: 2
+nhap z: 3
+Ket qua 1: So lon thu hai la 2.0
+PS C:\Users\ADMIN> 
