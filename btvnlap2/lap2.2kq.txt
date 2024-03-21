@@ -1,0 +1,2 @@
+nhap x :12345
+Chu so hang nghin cua so trên la : 2
