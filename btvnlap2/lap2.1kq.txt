@@ -1,0 +1,3 @@
+nhap a :2
+nhap b :3
+x=  -1.5
