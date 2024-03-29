@@ -1,0 +1,7 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/1/lap3.1.py"
+nhap n :10
+S2= 2.9289682539682538
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/1/lap3.1.py"
+nhap n :-8
+Vui lòng nhập lại số nguyên dương.
+PS C:\Users\ADMIN> 
