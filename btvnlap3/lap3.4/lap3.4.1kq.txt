@@ -1,0 +1,20 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap3/lap3.3/lap3.4.1.py"
+    * 
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap3/lap3.3/lap3.4.1.py"
+    * 
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * * 
+  * * *
+   * *
+    *
