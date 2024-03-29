@@ -1,0 +1,3 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap3/lap3.3/lap3.3d.py"
+6 28 496 
+PS C:\Users\ADMIN> 
