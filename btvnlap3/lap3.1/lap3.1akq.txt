@@ -1,0 +1,4 @@
+PS C:\Users\ADMIN> & "C:/Program Files/Python311/python.exe" "d:/tập python/btvnlap3/lap3.1a.py"
+nhap n :10
+S1= 55
+PS C:\Users\ADMIN> 
