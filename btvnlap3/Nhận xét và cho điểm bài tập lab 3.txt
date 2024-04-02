@@ -1,0 +1,28 @@
+Để code và ảnh của 1 lab chung folder đi em. Tách riêng folder làm gì
+
+- Bài 1: 
+a) đúng
+b) đúng  
+c) trống
+d) trống
+Điểm bài tập: 1.0
+
+- Bài 2: 
+a) đúng
+b) vòng lặp của em từ 500 đến 1001 thì i = 1000 thì chạy xong nó sẽ dừng rồi, cần gì em phải break?
+Điểm bài tập: 1.75
+
+- Bài 3:
+a) đúng
+b) đúng 
+c) đúng
+d) đúng
+e) trống
+Điểm bài tập: 4.0
+
+- Bài 4:
+a) đúng
+b) trống
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 3: 7.25
