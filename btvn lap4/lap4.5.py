@@ -43,3 +43,4 @@ while True:
     continue_choice = input("tiếp tục không? (c/k): ")
     if continue_choice.lower() != 'c':
         break
+# bài này quá trời khó cô ơi=>
